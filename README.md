@@ -26,4 +26,4 @@
 ### ✨ My Latest Projects:
 - [🖥 Synth Website](thesynthwebsite.com) - Interactive 3D synth sequencer
 - [🧪 Alligator Labs.](alligatorlabs.xyz) - Creative Side Project
-- [💻 Simple Shell]((https://github.com/natewood2/simple_shell)) - A custom shell written in C.
+- [💻 Simple Shell](https://github.com/natewood2/simple_shell) - A custom shell written in C.
