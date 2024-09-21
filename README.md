@@ -24,6 +24,6 @@
 - Always down for a good tech conversation!
 
 ### ✨ My Latest Projects:
-- [🖥 Synth Website](thesynthwebsite.com) - Interactive 3D synth sequencer. URL: thesynthwebsite.com
-- [🧪 Alligator Labs.](alligatorlabs.xyz) - Creative Side Project. URL: alligatorlabs.xyz
+- [🖥 Synth Website](https://thesynthwebsite.com) - Interactive 3D synth sequencer.
+- [🧪 Alligator Labs](https://alligatorlabs.xyz) - Creative Side Project.
 - [💻 Simple Shell](https://github.com/natewood2/simple_shell) - A custom shell written in C.
