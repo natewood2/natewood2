@@ -27,3 +27,4 @@
 - [🖥 Synth Website](https://thesynthwebsite.com) - Interactive 3D synth sequencer.
 - [🧪 Alligator Labs](https://alligatorlabs.xyz) - Creative Side Project.
 - [💻 Simple Shell](https://github.com/natewood2/simple_shell) - A custom shell written in C.
+- [🕓 Too Many Clocks](https://toomanyclocks.com) -  A React project built to explore and master modern web development techniques. This website showcases various unique clock designs, serving as a practical way to learning React fundamentals and responsive design.
