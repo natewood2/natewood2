@@ -14,7 +14,6 @@
 ![Three.js](https://img.shields.io/badge/-Three.js-333?style=flat-square&logo=three.js)
 ![Tone.js](https://img.shields.io/badge/-Tone.js-333?style=flat-square&logo=audio)
 ![Figma](https://img.shields.io/badge/-Figma-333?style=flat-square&logo=figma&logoColor=F24E1E)
-![Sass](https://img.shields.io/badge/-Sass-333?style=flat-square&logo=sass&logoColor=CC6699)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=flat-square&logo=bootstrap&logoColor=563D7C)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-333?style=flat-square&logo=tailwind-css&logoColor=38B2AC)
   
