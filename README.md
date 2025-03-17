@@ -7,6 +7,8 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nryanwood/) | [Email](mailto:nathanwood.sfg@gmail.com)
   
 ### 🔧 Technologies & Tools:
+![Rust](https://img.shields.io/badge/-Rust-333?style=flat-square&logo=rust&logoColor=E33616)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat-square&logo=typescript&logoColor=3178C6)
 ![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333?style=flat-square&logo=react)
