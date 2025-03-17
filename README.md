@@ -15,11 +15,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-333?style=flat-square&logo=figma&logoColor=F24E1E)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=flat-square&logo=bootstrap&logoColor=563D7C)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-333?style=flat-square&logo=tailwind-css&logoColor=38B2AC)
-  
-### 🎮 Fun Facts:
-- I’m building a drum machine with custom samples 🥁
-- Carrot Cake is the best cake 🥕
-- Always down for a good tech conversation!
 
 ### ✨ My Latest Projects:
 - [🖥 Synth Website](https://thesynthwebsite.com) - Interactive 3D synth sequencer.
