@@ -2,9 +2,8 @@
 
 ### 🚀 About Me:
 - 🧠 Passionate about: React, JavaScript, and front end!
-- 🎓 Learning at Atlas School of Software Engineering
 - 🎹 Synth enthusiast, exploring Eurorack and digital music!
-- 🌱 Currently working on a [3D interactive music website](https://github.com/natewood2/the-synth-website)
+- 🌱 Currently working on a on something new.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nryanwood/) | [Email](mailto:nathanwood.sfg@gmail.com)
   
 ### 🔧 Technologies & Tools:
